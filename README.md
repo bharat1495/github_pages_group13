@@ -1,6 +1,6 @@
 layout: post
 title: "Superstore Data Analysis"
-background: "./Img/Image2.jpg"
+![Image2.jpeg] (./Img/Image2.jpg)
 ---
 Steps to follow:
 1. Install jupyter package
