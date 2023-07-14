@@ -2,7 +2,7 @@
 layout: post
 title: "Superstore Data Analysis
   
-![Image2.jpeg] (/Img/Image2.jpeg)
+! [Image2.jpeg] (/Img/Image2.jpeg)
 
 Steps to follow:
 1. Install Jupyter package.
