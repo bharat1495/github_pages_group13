@@ -2,7 +2,8 @@
 layout: post
 title: "Superstore Data Analysis
   
-![Image2.jpeg] (./Img/Image2.jpeg)
+![Image2.jpeg] (/Img/Image2.jpeg)
+
 Steps to follow:
 1. Install Jupyter package.
 2. Install the required packages into the virtual environment using the command: `pip install -r requirements.txt`.
