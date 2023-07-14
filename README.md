@@ -1,14 +1,23 @@
+---
 layout: post
 title: "Superstore Data Analysis"
-![Background Image](/Img/Image2.jpeg)
 ---
-Steps to follow:
-1. Install jupyter package
-2. pip install -r requirements.txt - install the packages into the virtual environment
-3. Run the notebook
-4. Convert the notebook to html file using command - jupyter nbconvert --to html ./notebooks/example.ipynb --output-dir ./docs --TagRemovePreprocessor.enabled=True --TagRemovePreprocessor.remove_input_tags="['noshow']"
----
-Contents:
-1. Notebook - it contains the python notebook
-2. Img - It contains the images used in the code
-3. Web - It contains the notebook code
+
+<div style="background-image: url('/Img/Image2.jpeg'); background-size: cover; background-repeat: no-repeat; height: 100vh;">
+  <!-- Content goes here -->
+  
+  Steps to follow:
+  1. Install Jupyter package.
+  2. Install the required packages into the virtual environment using the command: `pip install -r requirements.txt`.
+  3. Run the notebook.
+  4. Convert the notebook to an HTML file using the command: 
+     ```
+     jupyter nbconvert --to html ./notebooks/example.ipynb --output-dir ./docs --TagRemovePreprocessor.enabled=True --TagRemovePreprocessor.remove_input_tags="['noshow']"
+     ```
+
+  Contents:
+  1. Notebook: It contains the Python notebook.
+  2. Img: It contains the images used in the code.
+  3. Web: It contains the notebook code.
+</div>
+
