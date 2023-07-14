@@ -1,9 +1,13 @@
----
-layout: post
-title: "Superstore Data Analysis
-  
-! [Image2.jpeg] (/Img/Image2.jpeg)
+<style>
+body {
+  background-image: ('/Img/Image.jpeg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+</style>
 
+# Superstore Dataset Analysis
+---
 Steps to follow:
 1. Install Jupyter package.
 2. Install the required packages into the virtual environment using the command: `pip install -r requirements.txt`.
