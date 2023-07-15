@@ -1,5 +1,5 @@
 # Superstore Dataset Analysis
-![Image.jpeg] (/Img/Image.jpeg)
+![Image.jpeg](/Img/Image.jpeg)
 ---
 Steps to follow:
 1. Install Jupyter package.
